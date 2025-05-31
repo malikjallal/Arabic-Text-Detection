@@ -26,3 +26,9 @@ GPT2 + BiLSTM achieved the highest validation accuracy (99.67%) and lowest loss.
 ## 🚫 Note
 The dataset used in this project is not publicly available, as it was provided for research purposes by a private source.
 
+## 📬 Contact
+
+> Created by: **Malik Tariq**  
+> 📧 Email: **Mt971325@gmail.com**  
+> 📍 Location: Jordan 🇯🇴  
+
